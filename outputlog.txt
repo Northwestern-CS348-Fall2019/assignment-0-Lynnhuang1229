@@ -1,0 +1,14 @@
+TESTS WITH ERRORS 
+test_1 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "/Users/andrewpaley/Dropbox/nu/fall2019/ta-introToAI/automatedgradingapp/app/testing/Source-Assignment-0/gradingtests.py", line 6, in test_1
+    result = student_code.hello_world()
+  File "/Users/andrewpaley/Dropbox/nu/fall2019/ta-introToAI/automatedgradingapp/app/testing/Source-Assignment-0/student_code.py", line 2, in hello_world
+    return true
+NameError: name 'true' is not defined
+
+-------------------------------
+TESTS FAILED  
+-------------------------------
+TESTS SKIPPED 
+-------------------------------
